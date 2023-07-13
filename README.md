@@ -1,7 +1,7 @@
 # DataControl
 Take control over your online presence the free way.
 
-You know those perky little terms and conditions and privacy policies they bother you with everytime you want to download an app or sign up for an app or website no one reads? Well those are the start of what data is collected, how its used and 
+You know those perky little terms and conditions and privacy policies they bother you with everytime you want to download an app or sign up for an app or website no one reads? Well those are the start of what data is collected, how its used and what they can do with it.
 
 Resources to help with Private Polices:
 https://www.tldrlegal.com/ - Software Licenses Explained in Plain English
@@ -24,8 +24,6 @@ AnyWho: Find your information here: https://www.anywho.com/people/ Opt out here:
 Archives: To find your information, you must sign up for a free trial here: https://www.archives.com/search/ancestor/checkout (and then cancel)
 Opt out here: http://www.archives.com/?_act=Optout
 
-ADVERTISEMENT
-
 BeenVerified: Find your information here: https://www.beenverified.com/
 Opt out here: https://www.beenverified.com/f/optout/search (High-priority)
 
@@ -44,8 +42,6 @@ InstantPeopleFinder: Find your information here: https://instantpeoplefinder.com
 Intelius: Find your information here: https://www.intelius.com.
 Opt out by sending your driver’s license and other information in using the form here: https://www.intelius.com/optout. You can also mail or fax your ID in, if preferred, to (425) 974-6194. (Intelius owns Classmates, DateCheck, iSearch, LookUpAnyone, Peopleconnect.us, PeopleLookup, Phonesbook, Publicrecords, Spock, USSearch, Zabasearch). (High priority, requires drivers license)
 
-ADVERTISEMENT
-
 LookUp: Find your information here: http://www.lookup.com, opt out at http://www.lookup.com/optout.php
 
 MyLife: Find your information here: https://www.mylife.com. (You don’t need to sign up and pay for anything). Opt out by calling (888) 704-1900, press 2, ask to be removed from MyLife (and Wink.com, just in case). You’ll need to provide your name, age, date of birth, email address, current mailing address, and a previous mailing address. (Do not sign up on the site; it will charge you to access your info.) Another option to try is to email a link to your profile to removalrequests@mylife.com. (High priority, must call)
@@ -59,8 +55,6 @@ PeopleByName: Type your phone number here: http://www.peoplebyname.com/.
 It may not give you information without you paying, but you can still try to opt out at http://www.peoplebyname.com/re…
 
 PeopleFinder: Find your information here: http://www.peoplefinder.com/, opt out at http://www.peoplefinder.com/optout.php
-
-ADVERTISEMENT
 
 PeopleFinders: Find your information and opt out here: https://www.peoplefinders.com/manage (includes PublicRecordsNow). (High priority)
 
@@ -78,8 +72,6 @@ Pipl: Go to https://pipl.com and remove your information from any sites it’s a
 
 PrivateEye: Find your information here: http://secure.privateeye.com/default.aspx, though it’s hard to tell if the results are complete. To opt out via mail, fill out and mail in the following form: http://secure.privateeye.com/optout-form.pdf. (Must use snail mail)
 
-ADVERTISEMENT
-
 PublicRecords: owned by Intelius. Find your information here: https://www.publicrecords.com/. To opt out, you need to mail or fax your driver’s license or state-issued ID card along with your full name, address, and date of birth to the address and fax number listed under “How to Remove your Information from PublicRecords.com Public Records Databases” on https://www.publicrecords.com/privacy. (High priority, must use snail mail or fax)
 
 PublicRecordsNow: Find your information here: https://www.publicrecordsnow.com/ Send them a letter along with the records you found, the information you want removed (your full name, middle initial, any aliases, current and former addresses, date of birth, a letter requesting removal, and a copy of your ID. Ask them to remove you also from USA-People-Search, PrivateEye, Veromi, and PeopleFinders. Send the letter to Opt-Out/Public Records Now, PO Box 110850, Naples, FL 34108. (Requires driver's licence, must use snail mail)
@@ -89,8 +81,6 @@ PublicRecords360: Find your information and opt out here: https://www.publicreco
 Radaris: Find your information here: http://radaris.com. Click on “control information” and then “manage information” and remove it by clicking on the X next to it or by removing specific listings. You may need to register to remove information. Details are here: http://radaris.com/page/how-to-remove
 
 ReversePhone Lookup: https://www.reversephonelookup.com/remove.php
-
-ADVERTISEMENT
 
 SearchBug Free Listings: Find your information here: https://www.searchbug.com/. Remove free records by clicking on your name at the address you want to remove, and clicking on the trash can icon or Remove link.
 
@@ -110,8 +100,6 @@ USIdentify: Find and remove your information here: http://www.usidentify.com/com
 
 US Search: Find your information here: https://www.ussearch.com/privacylock, then follow the instructions for opting out. (High priority, requires driver's license, must use snail mail)
 
-ADVERTISEMENT
-
 Veromi: Find your information here: http://www.veromi.net/processor.asp, try to opt out here: http://www.veromi.net/privacy.aspx. (Must use snail mail)
 
 White Pages: Find your information here: https://www.whitepages.com/, and then opt out here: https://www.whitepages.com/suppression_requests (High priority, must call)
@@ -121,8 +109,6 @@ You will need to enter an opt-out code when you receive a phone call. Opt-out in
 ZabaSearch: Find your information here: http://zabasearch.com. Get information on opting out at http://www.zabasearch.com/block_records/ You will need to fax proof of your identity and your address. If you’re using a driver’s license, cross out the photo and driver’s license number. Fax it to 425-974-6194. It can take 4-6 weeks to process. (High priority, requires driver's license, must fax)
 
 ZoomInfo: Check to see if your information is on ZoomInfo by filling out this form: http://www.zoominfo.com/lookupEmail. Opt out if it has an email on record—they will email you. (High priority)
-
-ADVERTISEMENT
 
 Special Circumstances If you’re a victim of violent crime or identity theft, it’s often possible to opt out of information that others can’t opt out of. You may, however, need to provide court orders or other information. It may be worth checking more complete data broker lists which include those: https://www.privacyrights.org/data-brokers
 

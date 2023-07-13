@@ -14,6 +14,7 @@ Who has access?
 What are your optinos?
   Receveing ads even after opting out, no guarentee information can be deleted, governement access to user data,
 Security Measures?
+  BAsic encryption should be mentioned, shouldn't be vague 
 How long will it store?
 
 Cloud storage that doesn't have zero knowledge encryption can unlock your files and depending what is in their privacy policy they can scan and review everything as needed.

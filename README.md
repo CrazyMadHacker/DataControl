@@ -49,7 +49,7 @@ To skirt around lawsuits from them being extra arbitaion clauses have been added
 Web Scraping
   =====================
 
-Adjust privacy settings (google, facebook, twitter, youtube, reddit, instagram,
+Adjust privacy settings (google, facebook, twitter, youtube, reddit, instagram) delete any stored data and turn off tracking on web and app activity, location history, YouTube history, and ad personalization.
 
 Aviod filling in survetys
 
@@ -62,5 +62,40 @@ Not All VPN's are created equially. Some companies are also mandated to surrende
 Use Privacy focused services like browsers and search engines
 
 Clean up 
+  =====================
 1) Delete/deactivate and have your data removed from all accounts you no longer use. If you do not have a password manager that collects these logins, check your browser password manager as well as google password manager to see if anything was saved. Also go through old emails for any welcome emails.
 2) Remove unensscary apps
+3) Cancel Loyalty programs, they are known to sell your data.
+5) Clean up, delete or change to a high security email provider
+6) Optimizer smart device privacy settings
+7) Opt out of marketing assosciations<br>
+   [The Data & Marketing Association](https://dmachoice.org/)<br>
+[The Network Advertising Initiative](https://thenai.org/opt-out/)<br>
+[The Digital Advertising Alliance – AdChoices and AppChoices](https://digitaladvertisingalliance.org/ccparesources)
+
+Opting out and and Removing your info
+  =====================
+
+  Now that we have limited this data getting back into the brokers hands, lets start opting out from everything.
+
+  These are the heavy hitters I like to start with:
+
+  https://www.whitepages.com/suppression-requests<br>
+  https://www.usphonebook.com/opt-out<br>
+  https://www.truepeoplesearch.com/removal<br>
+  https://www.fastpeoplesearch.com/removal<br>
+  https://www.acxiom.com/optout/<br>
+  https://www.experian.com/privacy/opting_out<br>
+  https://legal.epsilon.com/dsr/<br>
+  https://datacloudoptout.oracle.com/optout/<br>
+  https://www.advcredit.com/opting-out/<br>
+  https://www.smartbackgroundchecks.com/optout<br>
+  https://www.beenverified.com/app/optout/search<br>
+  https://www.equifax.com/personal/help/opt-out-prescreened-offers/<br>
+  https://www.healthcare.com/privacy-policy#right-to-opt-out<br>
+  https://modernize.com/privacy
+  https://www.spokeo.com/optout
+  https://www.transunion.com/article/marketing-offers-opt-out
+
+  Now What
+  https://www.optery.com/ - They have a free report 

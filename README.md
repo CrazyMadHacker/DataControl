@@ -38,11 +38,11 @@ Change Providers or close accounts<br>
   Go through all your accounts privacy settings as well as their privacy policy to restric access, opt out of any data collecting you can and if their privacy policy has too many red flags, find another provider. If you must keep a certain proivider or social media account, think twice before you post. Your images you post and content you share can quickly become the property of that site to sell or resuse if they their privacy policy includes: 
   > as royalty-free, transferable, sub-licensable, worldwide license or  nonexclusive, irrevocable, worldwide, perpetual, unlimited, assignable, sublicenseable, fully paid up and royalty-free right to us to copy, prepare derivative works of, improve, distribute, publish, remove, retain, add, process, analyze, use and commercialize, in any way now known or in the future discovered, any information you provide.
 
-Cloud storage that doesn't have zero knowledge encryption can unlock your files and depending what is in their privacy policy they can scan and review everything as needed.
-Companies can also changes their terms whenever they want as long as they inform thier customers about the changes.
+Cloud storage that doesn't have zero knowledge encryption can unlock your files and depending what is in their privacy policy they can scan and review everything as needed.<br>
+Companies can also changes their terms whenever they want as long as they inform thier customers about the changes, so don't ignore those policy change emails!
 
 
-To skirt around lawsuits from them being extra arbitaion clauses have been added which takes your right to take the company to court and having group complaints freom multipl.e users.
+To skirt around lawsuits from them being extra arbitration clauses have been added which takes your right to take the company to court and having group complaints freom multiple users, opt out of arbitration clasues.
 
 
 
@@ -51,20 +51,20 @@ Web Scraping
 
 Adjust privacy settings (google, facebook, twitter, youtube, reddit, instagram) delete any stored data and turn off tracking on web and app activity, location history, YouTube history, and ad personalization.
 
-Aviod filling in survetys
+Aviod filling in surverys, this is the number one place for data.
 
-Mobile apps can collect data even when you are not using them so make sure to go through all the permissions and make sure 
+Mobile apps can collect data even when you are not using them so make sure to go through all the permissions and make sure only what you are using is installed and the permissions your phone gives those apps makes sense. Temu does not need to know your IP, contact list or calendar information to order and ship a product.
 
 Privacy
   =====================
-Not All VPN's are created equially. Some companies are also mandated to surrender user data to law enforcement sd make sure you have a VPN that does not log/keep your data. Using one email for your accounts and devices are easier to connect and make a user profile.
+Not All VPN's are created equially. Some companies are also mandated to surrender user data to law enforcement sd make sure you have a VPN that does not log/keep your data, or at least doesn't sell your data. Using one email for your accounts and devices are easier to connect and make a user profile so use serpate emails addresses for important stuff and have a throw away.
 
-Use Privacy focused services like browsers and search engines
+Use Privacy focused services like browsers and search engines. Not Google.
 
 Clean up 
   =====================
 1) Delete/deactivate and have your data removed from all accounts you no longer use. If you do not have a password manager that collects these logins, check your browser password manager as well as google password manager to see if anything was saved. Also go through old emails for any welcome emails.
-2) Remove unensscary apps
+2) Remove unensscary apps and edit permissions on apps being used
 3) Cancel Loyalty programs, they are known to sell your data.
 5) Clean up, delete or change to a high security email provider
 6) Optimizer smart device privacy settings
@@ -98,5 +98,14 @@ Opting out and and Removing your info
   https://www.transunion.com/article/marketing-offers-opt-out
 
   Now What
-    =====================
-  https://www.optery.com/ - They have a free report 
+=====================
+  https://www.optery.com/ - They have a free report to get started on other sites.
+  There are lists every where for data brokers, CA and VA have recently made data brokers revels themselves and also keep a list.
+
+Taking It One Step Further
+=====================
+Unquie complex passwords for every account, use a password manager
+Enable MFA for ALL accounts. When I can, I use a yubico hardware MFA.
+Dark Web Scan, I like to keep on top of any data that might be out there and change emails/ credit cards before something happens
+Lock Down Credits and set a 
+  

@@ -5,22 +5,22 @@ Take control over your online presence the free way.
 
 Where it all starts
 =====================
-You know those perky little terms and conditions and privacy policies they bother you with everytime you want to download an app or sign up for an app or website no one reads? Well those are the start of what data is collected, how its used and what they can do with it. Companies love to have vague confusing terms so here are three sites that will help. 
+You know those pesky little terms and conditions and privacy policies they bother you with everytime you want to download an app or sign up for an app or website no one reads? Well those are the start of what data is collected, how its used and what they can do with it. Companies love to have vague confusing terms so here are three sites that will help. 
 
 https://www.tldrlegal.com/ - Software Licenses Explained in Plain English<BR>
 https://privacyspy.org/ - Grade and Monitor popular services<BR>
-https://tosdr.org/ - Grades based on protectin consutmer rights and data privacy<BR>
+https://tosdr.org/ - Grades based on protecting consumer rights and data privacy<BR>
 <DETAILS>
 <SUMMARY>There maybe be multiple policies for their different products but make sure it matches your expectations.</SUMMARY>
 
 * What type of information does the site collect?
      - Email might be collected when you sign up and address makes sense if you are having food delivered but is there a clear reason why camera, microphone and exact location and IP need to be collected?
 * How does it collect this information?
-     - Certain tracking technoloiges are a red flag, they will gather more data than is nesscary.
+     - Certain tracking technologies are a red flag, they will gather more data than is nesscary.
 * Who has access?
-     - Data transfer to 3rd parties, advertising partners, affiliates are other companies getting access to your data. You want the policy to give you a specf8ic list of companies
+     - Data transfer to 3rd parties, advertising partners, affiliates are other companies getting access to your data. You want the policy to give you a specific list of companies
 * What are your optinos?
-     - Receveing ads even after opting out, no guarentee information can be deleted, governement access to user data are a few of the options that are actualky not options.
+     - Receiving ads even after opting out, no guarantee information can be deleted, governement access to user data are a few of the options that are actually not options.
 * Security Measures?
      - Basic encryption should be mentioned with protocols, shouldn't be vague like we secure your data 100%. 
 * How long will it store?
@@ -35,14 +35,14 @@ Restrict access in privacy settings<br>
 Opt out of data collecting<br>
 Change Providers or close accounts<br>
 
-  Go through all your accounts privacy settings as well as their privacy policy to restric access, opt out of any data collecting you can and if their privacy policy has too many red flags, find another provider. If you must keep a certain proivider or social media account, think twice before you post. Your images you post and content you share can quickly become the property of that site to sell or resuse if they their privacy policy includes: 
+  Go through all your accounts privacy settings as well as their privacy policy to restric access, opt out of any data collecting you can and if their privacy policy has too many red flags, find another provider. If you must keep a certain proivider or social media account, think twice before you post. Your images you post and content you share can quickly become the property of that site to sell or resuse if their privacy policy includes: 
   > as royalty-free, transferable, sub-licensable, worldwide license or  nonexclusive, irrevocable, worldwide, perpetual, unlimited, assignable, sublicenseable, fully paid up and royalty-free right to us to copy, prepare derivative works of, improve, distribute, publish, remove, retain, add, process, analyze, use and commercialize, in any way now known or in the future discovered, any information you provide.
 
 Cloud storage that doesn't have zero knowledge encryption can unlock your files and depending what is in their privacy policy they can scan and review everything as needed.<br>
 Companies can also changes their terms whenever they want as long as they inform thier customers about the changes, so don't ignore those policy change emails!
 
 
-To skirt around lawsuits from them being extra arbitration clauses have been added which takes your right to take the company to court and having group complaints freom multiple users, opt out of arbitration clasues.
+To skirt around lawsuits from them being extra arbitration clauses have been added which takes your right to take the company to court and having group complaints freom multiple users, opt out of arbitration clauses.
 
 
 
@@ -67,7 +67,7 @@ Clean up
 2) Remove unensscary apps and edit permissions on apps being used
 3) Cancel Loyalty programs, they are known to sell your data.
 5) Clean up, delete or change to a high security email provider
-6) Optimizer smart device privacy settings
+6) Optimize smart device privacy settings
 7) Opt out of marketing assosciations<br>
    [The Data & Marketing Association](https://dmachoice.org/)<br>
 [The Network Advertising Initiative](https://thenai.org/opt-out/)<br>
@@ -99,13 +99,14 @@ Opting out and and Removing your info
 
   Now What
 =====================
-  https://www.optery.com/ - They have a free report to get started on other sites.
+  https://www.optery.com/ - They have a free report to get started on other sites.<br>
   There are lists every where for data brokers, CA and VA have recently made data brokers revels themselves and also keep a list.
 
 Taking It One Step Further
 =====================
-Unquie complex passwords for every account, use a password manager
-Enable MFA for ALL accounts. When I can, I use a yubico hardware MFA.
-Dark Web Scan, I like to keep on top of any data that might be out there and change emails/ credit cards before something happens
-Lock Down Credits and set a 
+Unquie complex passwords for every account, use a password manager, don't reuse passwords<br>
+Enable MFA for ALL accounts. When I can, I use a yubico hardware MFA.<br>
+Dark Web Scan, I like to keep on top of any data that might be out there and change emails/ credit cards before something happens<br>
+Lock Your Credit, you will still be able to build credit with open accounts but this will block any new inquiries<br>
+Add a fraud alert, this will make lenders take extra steps to verify your identity and make it harder for someone to open unauthorized accounts in your name.<br>
   

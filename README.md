@@ -42,7 +42,7 @@ Cloud storage that doesn't have zero knowledge encryption can unlock your files 
 Companies can also changes their terms whenever they want as long as they inform thier customers about the changes, so don't ignore those policy change emails!
 
 
-To skirt around lawsuits from them being extra arbitration clauses have been added which takes your right to take the company to court and having group complaints freom multiple users, opt out of arbitration clauses.
+To skirt around lawsuits from them being extra arbitration clauses have been added which takes your right to take the company to court and having group complaints from multiple users, opt out of arbitration clauses.
 
 
 
@@ -51,20 +51,20 @@ Web Scraping
 
 Adjust privacy settings (google, facebook, twitter, youtube, reddit, instagram) delete any stored data and turn off tracking on web and app activity, location history, YouTube history, and ad personalization.
 
-Aviod filling in surverys, this is the number one place for data.
+Avoid filling in surverys, this is the number one place for data.
 
 Mobile apps can collect data even when you are not using them so make sure to go through all the permissions and make sure only what you are using is installed and the permissions your phone gives those apps makes sense. Temu does not need to know your IP, contact list or calendar information to order and ship a product.
 
 Privacy
   =====================
-Not All VPN's are created equially. Some companies are also mandated to surrender user data to law enforcement sd make sure you have a VPN that does not log/keep your data, or at least doesn't sell your data. Using one email for your accounts and devices are easier to connect and make a user profile so use serpate emails addresses for important stuff and have a throw away.
+Not All VPN's are created equally. Some companies are also mandated to surrender user data to law enforcement so make sure you have a VPN that does not log/keep your data, or at least doesn't sell your data. Using one email for your accounts and devices are easier to connect and make a user profile so use separate email addresses for important stuff and have a throw away.
 
 Use Privacy focused services like browsers and search engines. Not Google.
 
 Clean up 
   =====================
 1) Delete/deactivate and have your data removed from all accounts you no longer use. If you do not have a password manager that collects these logins, check your browser password manager as well as google password manager to see if anything was saved. Also go through old emails for any welcome emails.
-2) Remove unensscary apps and edit permissions on apps being used
+2) Remove unnecessary apps and edit permissions on apps being used
 3) Cancel Loyalty programs, they are known to sell your data.
 5) Clean up, delete or change to a high security email provider
 6) Optimize smart device privacy settings
@@ -100,11 +100,11 @@ Opting out and and Removing your info
   Now What
 =====================
   https://www.optery.com/ - They have a free report to get started on other sites.<br>
-  There are lists every where for data brokers, CA and VA have recently made data brokers revels themselves and also keep a list.
+  There are lists every where for data brokers, CA and VA have recently made data brokers reveal themselves and also keep a list.
 
 Taking It One Step Further
 =====================
-Unquie complex passwords for every account, use a password manager, don't reuse passwords<br>
+Unique complex passwords for every account, use a password manager, don't reuse passwords<br>
 Enable MFA for ALL accounts. When I can, I use a yubico hardware MFA.<br>
 Dark Web Scan, I like to keep on top of any data that might be out there and change emails/ credit cards before something happens<br>
 Lock Your Credit, you will still be able to build credit with open accounts but this will block any new inquiries<br>

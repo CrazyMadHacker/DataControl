@@ -93,9 +93,13 @@ Opting out and and Removing your info
   https://www.beenverified.com/app/optout/search<br>
   https://www.equifax.com/personal/help/opt-out-prescreened-offers/<br>
   https://www.healthcare.com/privacy-policy#right-to-opt-out<br>
-  https://modernize.com/privacy
-  https://www.spokeo.com/optout
-  https://www.transunion.com/article/marketing-offers-opt-out
+  https://modernize.com/privacy<br>
+  https://www.spokeo.com/optout<br>
+  https://www.transunion.com/article/marketing-offers-opt-out<br>
+  https://pipl.com/help/remove <br>
+  https://www.publicrecords360.com/optout.html <br>
+  http://www.zoominfo.com/lookupEmail. <br>
+  https://www.ussearch.com/?feeder=publicrecords360<br>
 
   Now What
 =====================

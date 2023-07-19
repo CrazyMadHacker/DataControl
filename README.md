@@ -111,6 +111,14 @@ Taking It One Step Further
 Unique complex passwords for every account, use a password manager, don't reuse passwords<br>
 Enable MFA for ALL accounts. When I can, I use a yubico hardware MFA.<br>
 Dark Web Scan, I like to keep on top of any data that might be out there and change emails/ credit cards before something happens<br>
-Lock Your Credit, you will still be able to build credit with open accounts but this will block any new inquiries<br>
+<DETAILS>
+<SUMMARY>Lock Your Credit, you will still be able to build credit with open accounts but this will block any new inquiries</SUMMARY>
+Equifax: 1 (800) 349-9960, https://www.freeze.equifax.com/
+Experian: 1 (888) 397‑3742, https://www.experian.com/blogs/ask-experian/credit-education/preventing-fraud/security-freeze/
+TransUnion: 1 (888) 909-8872, https://www.transunion.com/credit-freeze/place-credit-freeze
+Innovis: 1 (800) 540-2505, https://www.innovis.com/personal/securityFreeze
+Explore any privacy options offered by your state’s motor vehicle department.</DETAILS>
+
 Add a fraud alert, this will make lenders take extra steps to verify your identity and make it harder for someone to open unauthorized accounts in your name.<br>
-  
+Opt out of prescreened credit offers: Follow the instructions at https://www.optoutprescreen.com/<br>
+Get on the Do Not Call Registry: https://www.donotcall.gov/register/reg.aspx
